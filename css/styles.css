@@ -5,7 +5,7 @@ body {
     
 }
 .logo {
-    font-family:"Raleway";
+    font-family:"Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -64,10 +64,10 @@ body {
     cursor: pointer;
 }
 .section-first-button:hover {
-    color:#404BBF;
+    background-color:#404BBF;
 }
 .section-first-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 .section-second-header {
     font-weight: 500;
@@ -79,4 +79,31 @@ body {
 .section-second-p {
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.section-third {
+    background-color: #f4f4fd;
+}
+.section-third-header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+}
+.section-third-list {
+    background-color: #FFFFFF;
+}
+.section-third-list-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-third-list-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
