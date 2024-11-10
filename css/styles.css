@@ -64,10 +64,10 @@ body {
     cursor: pointer;
 }
 .section-first-button:hover {
-    color:#404bbf;
+    color:#404BBF;
 }
 .section-first-button:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 .section-second-header {
     font-weight: 500;
