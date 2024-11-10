@@ -48,7 +48,7 @@ body {
 }
 .section-first-header{
     font-size: 56px;
-    line-height: 1.17;
+    line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color:#ffffff;
@@ -63,9 +63,20 @@ body {
     color: #ffffff;
     cursor: pointer;
 }
-.section-1-button:hover {
+.section-first-button:hover {
     color:#404bbf;
 }
-.section-1-button:focus {
+.section-first-button:focus {
     color: #404bbf;
+}
+.section-second-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.section-second-p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
