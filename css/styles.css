@@ -5,7 +5,7 @@ body {
     
 }
 .logo {
-    font-family:'Raleway';
+    font-family:"Raleway";
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -43,17 +43,17 @@ body {
     color: #404bbf;
 }
 
-.section-1 {
+.section-first {
     background-color: #2e2f42;
 }
-.section-1-h1 {
+.section-first-header{
     font-size: 56px;
     line-height: 1.17;
     text-align: center;
     letter-spacing: 0.02em;
     color:#ffffff;
 }
-.section-1-button {
+.section-first-button {
     background-color: #4D5AE5;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
